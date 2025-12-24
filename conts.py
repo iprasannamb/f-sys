@@ -1,3 +1,3 @@
-BLOCK_SIZE = 16
+BLOCK_SIZE = 16          # bytes per block
 TOTAL_BLOCKS = 64
-MAX_DIRECT_BLOCKS = 2
+DIRECT_POINTERS = 4
